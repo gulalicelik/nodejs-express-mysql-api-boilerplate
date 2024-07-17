@@ -1,4 +1,5 @@
 # nodejs-express-mysql-api-boilerplate
+suhaib abdullah
 
 a simple boilerplate for nodejs express mysql api
 clone this repo and start your project
